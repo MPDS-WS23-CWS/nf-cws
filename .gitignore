@@ -10,3 +10,5 @@ out
 /gradle.properties
 /logs.tmp
 *.jar
+
+.DS_Store
